@@ -1,6 +1,6 @@
 Students={    
         "Alice":85,
-        "Mark":55
+        "Abhi":55
     }
 
 name=input("Enter the Students' name: ")
